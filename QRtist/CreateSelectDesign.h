@@ -5,8 +5,8 @@
  *  View controller for the screen that lets the user pick a data source
  *  for a newly created QRCode.
  *
- *  Creator:    Kevin Geisler <kgeisler@email.arizona.edu>
- *  Author(s):  Kevin Geisler <kgeisler@email.arizona.edu>
+ *  Creator:    Charles Magahern <charles.magahern@arizona.edu>
+ *  Author(s):  Charles Magahern <charles.magahern@arizona.edu>
  *              James Magahern <jamesmag@arizona.edu>
  *  Copyright:  2011 omegaHern LLC.
  *

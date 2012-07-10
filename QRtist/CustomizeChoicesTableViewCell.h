@@ -6,7 +6,7 @@
  *
  *  Creator:    James Magahern <jamesmag@arizona.edu>
  *  Author(s):  James Magahern <jamesmag@arizona.edu>
- *              Kevin Geisler <kgeisler@email.arizona.edu>
+ *              Charles Magahern <charles.magahern@arizona.edu>
  *  Copyright:  2011 omegaHern LLC.
  *
  */

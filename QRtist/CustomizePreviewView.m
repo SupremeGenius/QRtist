@@ -4,8 +4,8 @@
  *
  *  View for the QRCode's preview during customization.
  *
- *  Creator:    Kevin Geisler <kgeisler@email.arizona.edu>
- *  Author(s):  Kevin Geisler <kgeisler@email.arizona.edu>
+ *  Creator:    Charles Magahern <charles.magahern@arizona.edu>
+ *  Author(s):  Charles Magahern <charles.magahern@arizona.edu>
  *  Copyright:  2011 omegaHern LLC.
  *
  */

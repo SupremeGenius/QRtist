@@ -11,7 +11,7 @@
  *  Creator:    Charles Magahern <charles.magahern@arizona.edu>
  *  Author(s):  Charles Magahern <charles.magahern@arizona.edu>
  *              James Magahern <jamesmag@arizona.edu>
- *              Kevin Geisler <kgeisler@email.arizona.edu>
+ *              Charles Magahern <charles.magahern@arizona.edu>
  *  Copyright:  2011 omegaHern LLC.
  *
  */
